@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dosagelimitsindex"
+  site-url: "https://bilalcodehub.github.io/dosagelimitsindex"
+  description: "Dosage limits project"
+  repo-branch: main
+  repo-url: "https://github.com/bilalcodehub/dosagelimitsindex"
